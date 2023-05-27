@@ -1,0 +1,32 @@
+.fix {
+	height: 36rem !important;
+	width: auto;
+	margin: 1rem;
+}
+
+.fix h1 {
+	width: 3rem;
+}
+
+.fix img {
+	height: 15rem !important;
+	padding: 20px;
+}
+
+.container-of-text {
+	height: 6rem;
+	overflow: hidden;
+}
+.button {
+	position: absolute;
+	bottom: 10px !important  ;
+}
+
+.price {
+	font-weight: bold;
+}
+
+.buy {
+	margin-top: 1rem;
+	font-weight: bold !important;
+}

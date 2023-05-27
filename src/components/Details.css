@@ -1,0 +1,9 @@
+.detail div img {
+	width: 30% !important;
+	transform: translateX(110%);
+}
+
+.detail div .container-of-text {
+	width: 60% !important;
+	margin-top: 2rem;
+}
